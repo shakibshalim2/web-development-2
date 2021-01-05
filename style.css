@@ -90,13 +90,13 @@ background-position: right;
 background-position: left;
 }
 .single-part{
-    width: 600px;
+    width: 500px;
     padding: 10px 10px 20px 10px;
     border: 1px solid #BFBFBF;
     background-color: white;
     box-shadow: 15px 10px 30px #aaaaaa;
 border-radius: 15px;
-height: 75%;
+height: 85%;
 }
 #full-stack{
     border-image-slice: 30% ;
