@@ -88,7 +88,6 @@ background-position: right;
   background-image: url(image/exp-bg.png);  
     background-repeat: no-repeat;
 background-position: left;
-
 }
 .single-part{
     width: 600px;
@@ -118,7 +117,10 @@ font-size: 12px;
 
 
 }
+#design{
+margin: 2%;
 
+}
 
 
 
