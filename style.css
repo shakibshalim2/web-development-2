@@ -1,0 +1,141 @@
+body{
+margin: 0;
+font-family: 'Hanalei Fill', cursive;
+font-family: 'Poppins', sans-serif;
+}
+
+h1{
+font-size: 50px;
+font-weight: 1;
+font-family: 'Hanalei Fill', cursive;
+text-shadow: 2px 2px 5px brown;
+}
+h3{
+font-size: 30px;
+
+}
+h2{
+font-size: 40px;
+font-weight: 700;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+    }
+
+.intro{
+color: chocolate;
+}
+.correction{
+width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;
+
+}
+.correction img{
+width: 100%;
+
+}
+.first-part{
+background-image: url(image/top-banner.png);
+background-repeat: no-repeat;
+
+}
+
+.button-color {
+    border: none;
+    color: rgb(229, 233, 229);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    border-radius: 100px;
+    background:linear-gradient(45deg,blue,purple)
+}
+
+.fa {
+  margin:15px;
+  text-align: center ;
+  text-decoration: none;
+  background: #00123a;
+  color: rgb(165, 150, 150);
+ padding: 10px;
+ font-size: 30px;
+ width: 30px;
+ text-align: center;
+ text-decoration: none;
+ border-radius: 50%;
+}
+.fa:hover {
+    opacity: 0.7;
+
+}
+.second-part{
+background-image: url(image/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
+
+}
+.button-color:hover{
+    color: black;
+}
+
+.last-part{
+  background-image: url(image/exp-bg.png);  
+    background-repeat: no-repeat;
+background-position: left;
+
+}
+.single-part{
+    width: 600px;
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 15px 10px 30px #aaaaaa;
+border-radius: 15px;
+height: 75%;
+}
+#full-stack{
+
+    border-image-slice: 30% ;
+    border-left: 5px solid rgb(168, 119, 119);
+    background-color: rgb(238, 228, 210);
+
+}
+#baby-web{
+    border-left: 5px solid rgb(168, 119, 119);
+    background-color: rgb(238, 228, 210);
+
+}
+footer p{
+text-align: center;
+font-size: 12px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
